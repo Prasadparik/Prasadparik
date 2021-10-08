@@ -15,11 +15,11 @@ I ❤ TO CODE...
 
 
 <div>
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=prasadparik&show_icons=true&locale=en" alt="prasadparik" />
+  <img align="center" width="25%" src="https://github-readme-stats.vercel.app/api?username=prasadparik&show_icons=true&locale=en" alt="prasadparik" />
   
-<img align="center"  width="35%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" />
+<img align="center"  width="25%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" />
 
-<img  align="center" width="35%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" />
+<img  align="center" width="25%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" />
 </div>
 
 
