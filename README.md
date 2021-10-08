@@ -15,7 +15,7 @@ I ❤ TO CODE...
 <div>
 <img align="center"  width="45%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" />
 
-<img  align="center" width="45%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" />
+<img  align="center" width="45%" height="40" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" />
 </div>
 
 
