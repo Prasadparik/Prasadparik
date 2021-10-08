@@ -1,11 +1,9 @@
 # 👋 Hi There, I’m Prasad!
 
-I’m an Indian Freelancer Frontend developer.
+I’m an Indian Frontend developer.
 
 I’m passionate about learning new Technology and try to enhance my skills. In my free time, I like to create videos on Youtube related to programming & web Development. I also have an interest in learning about photography & cinematography.
-
 And the most important thing about me is that
-
 I ❤ TO CODE...
 
 <hr>
