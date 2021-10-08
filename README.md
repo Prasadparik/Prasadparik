@@ -63,10 +63,8 @@ I ❤ TO CODE...
 <hr>
 
 ### Example Of Work.
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/hLHG86UESes" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLHG86UESes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <hr>
