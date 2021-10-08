@@ -12,7 +12,7 @@ I ❤ TO CODE...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadparik&hide=contribs,prs)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" /></p>
+<p><img align="left" width="50" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" /></p>
 
