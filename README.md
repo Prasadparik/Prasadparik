@@ -8,6 +8,16 @@ And the most important thing about me is that
 
 I ❤ TO CODE...
 
+
+
+- 🌱 I’m currently learning **React Native & MongoDB**
+
+- 👨‍💻 All of my projects are available at [https://parikprasad.netlify.app/](https://parikprasad.netlify.app/)
+
+- 📫 How to reach me **prasadparik18@gmail.com**
+
+<hr>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadparik&hide=contribs,prs) -->
 
 
@@ -20,15 +30,7 @@ I ❤ TO CODE...
 <img  align="center" width="30%"  src="https://github-readme-streak-stats.herokuapp.com/?user=prasadparik&" alt="prasadparik" />
 </div>
 
-
-
-
-
-- 🌱 I’m currently learning **React Native & MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://parikprasad.netlify.app/](https://parikprasad.netlify.app/)
-
-- 📫 How to reach me **prasadparik18@gmail.com**
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
