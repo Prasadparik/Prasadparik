@@ -63,9 +63,9 @@ I ❤ TO CODE...
 <hr>
 
 ### Example Of Work.
-
+<div width="30%">
 ![Untitled design (4)](https://user-images.githubusercontent.com/56125377/136527876-5272e8bd-c2b7-4289-af31-1e1f4099a9a6.gif)
-
+</div>
 
 <hr>
 
