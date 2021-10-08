@@ -8,7 +8,16 @@ And the most important thing about me is that
 
 I ❤ TO CODE...
 
+<hr>
+  
+### Example Of Work.
 
+<div align="center">
+<img  align="center" width="45%"  src="https://user-images.githubusercontent.com/56125377/136527876-5272e8bd-c2b7-4289-af31-1e1f4099a9a6.gif" alt="prasadparik" />
+<img  align="center" width="45%"  src="https://user-images.githubusercontent.com/56125377/136530366-c02a13bc-850b-423a-a204-88f2dc88369a.gif" alt="prasadparik" />
+</div>
+
+<hr>
 
 - 🌱 I’m currently learning **React Native & MongoDB**
 
@@ -59,15 +68,6 @@ I ❤ TO CODE...
 #### Design & Version Control.
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-<hr>
-
-### Example Of Work.
-
-<div align="center">
-<img  align="center" width="45%"  src="https://user-images.githubusercontent.com/56125377/136527876-5272e8bd-c2b7-4289-af31-1e1f4099a9a6.gif" alt="prasadparik" />
-<img  align="center" width="45%"  src="https://user-images.githubusercontent.com/56125377/136527876-5272e8bd-c2b7-4289-af31-1e1f4099a9a6.gif" alt="prasadparik" />
-</div>
 
 <hr>
 
