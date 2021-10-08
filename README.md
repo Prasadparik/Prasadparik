@@ -12,7 +12,7 @@ I ❤ TO CODE...
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadparik&hide=contribs,prs) -->
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=prasadparik&show_icons=true&locale=en" alt="prasadparik" />
+<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=prasadparik&show_icons=true&locale=en" alt="prasadparik" />
 
 <div>
 <img align="center"  width="45%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadparik&show_icons=true&locale=en&layout=compact" alt="prasadparik" />
