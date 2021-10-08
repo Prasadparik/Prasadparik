@@ -63,8 +63,10 @@ I ❤ TO CODE...
 <hr>
 
 ### Example Of Work.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdLuXMUoRZkvDLh40rpjaNC%2FNewsApp%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/hLHG86UESes" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <hr>
