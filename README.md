@@ -10,4 +10,5 @@ And the most important thing about me is that
 
 I ❤ TO CODE...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadparik)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadparik&count_private=true)
+
