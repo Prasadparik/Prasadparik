@@ -1,28 +1,5 @@
-# Hi There, I’m Prasad!
-<span class="wave">👋</span>
-<style>
-.wave {
-  animation-name: wave-animation;  /* Name of @keyframes element below */
-  animation-duration: .75s;  /* Wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
-  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 8rem;
-}
+# 👋 Hi There, I’m Prasad!
 
-.wave:hover {
-  animation-play-state: running; /* Play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
-</style>
 I’m an Indian Freelancer Frontend developer.
 
 I’m passionate about learning new Technology and try to enhance my skills. In my free time, I like to create videos on Youtube related to programming & web Development. I also have an interest in learning about photography & cinematography.
