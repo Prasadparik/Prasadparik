@@ -1,10 +1,12 @@
-# 👋 Hi There, I’m Prasad!
 
-I’m an Indian Frontend developer.
+👋 Hey there, I'm Prasad Parik, a passionate Software Developer known for innovative solutions and adept problem-solving. I specialize in the MERN Stack, leveraging its power to create seamless full-stack applications.
 
-I’m passionate about learning new Technology and try to enhance my skills. In my free time, I like to create videos on Youtube related to programming & web Development. I also have an interest in learning about photography & cinematography.
-And the most important thing about me is that
-I ❤ TO CODE...
+💼 My journey includes designing top-notch websites, leading teams, and creating impactful designs for local businesses and institutions.
+
+📱 I've recently ventured into crafting applications like a React Native-based Daily News Mobile App, a full-stack Expense Tracker, and a Group Chat App. These projects showcase my full-stack expertise, from frontend design to backend implementation with Node.js.
+
+💡 Beyond coding, I'm an avid self-improvement reader and a video editing enthusiast. I share my knowledge through educational YouTube videos to inspire fellow developers.
+
 
 <hr>
   
